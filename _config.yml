@@ -9,17 +9,6 @@ description: "This site is a personal portfolio. It is meant to reveal all the a
 
 # Team names, titles and social links
 people:
-- name: James Madison University
-  pic: 1
-  position: Bachelors Degree - Computer Science Major, Christian Science Minor, Infosed Certificate
-  # social:
-  #   - title: twitter
-  #     url: #
-  #   - title: facebook
-  #     url: #
-  #   - title: stack-overflow
-  #     url: #
-
 - name: Blue Ridge Community College
   pic: 2
   position: Associates Degree - Computer Science
@@ -31,9 +20,20 @@ people:
   #   - title: linkedin
   #     url: #
 
-# - name: Diana Petersen
-#   pic: 3
-#   position: Lead Developer
+- name: James Madison University
+  pic: 1
+  position: Bachelors Degree - Computer Science Major, Christian Science Minor, Infosed Certificate
+  # social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: stack-overflow
+  #     url: #
+
+- name: Life
+  pic: 3
+  position: I have worked a number of jobs that have provided me with opportunities to learn.
 #   social:
 #     - title: twitter
 #       url: #
