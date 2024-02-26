@@ -3,13 +3,13 @@ title: Amazon Web Services
 subtitle: Cloud Practioner
 layout: default
 modal-id: 1
-date: 2024-2-25
+date: 
 img: dreams.png
 thumbnail: terminal-ls.png
 alt: image-alt
-project-date: 2024-2-25
-client: Luke Davis
-category: Credentials
+project-date: 
+client: 
+category: 
 description: A description of the credential goes here.
 
 ---
