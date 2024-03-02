@@ -1,3 +1,4 @@
+// DO NOT USE WHEN USING FORM SPREE
 // $(function() {
 
 //     $("input,textarea").jqBootstrapValidation({
