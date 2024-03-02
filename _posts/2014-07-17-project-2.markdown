@@ -7,9 +7,9 @@ date: 2024-03-01
 img: coding-screen.png
 thumbnail: coding-screen-thumbnail.png
 alt: coding-screen
-project-date: 
-client: 
-category: Credentials
+# project-date: 
+# client: 
+# category: Credentials
 description: I am certified in 2016 Microsoft Word, Powerpoint, and Excel. These crendials are for the 2016 versions but for most use cases have applications in the current MS365 versions of Word, Powerpoint, and Excel. Below are some descriptions straight from Microsoft for the certifications.
 
 Word Expert Certification-

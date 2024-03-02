@@ -7,9 +7,9 @@ date: 2024-03-01
 img: coding-screen.png
 thumbnail: coding-screen-thumbnail.png
 alt: coding-screen
-project-date: 2024
-client: 
-category: Credentials
+# project-date: 2024
+# client: 
+# category: Credentials
 description: The AWS Certified Cloud Practitioner validates foundational, high-level understanding of AWS Cloud, services, and terminology. This certification demonstrates my knowledge of AWS and how computing in the cloud works in general. To read more about this certification go to the official AWS Website, https://aws.amazon.com/certification/certified-cloud-practitioner/
 
 ---
