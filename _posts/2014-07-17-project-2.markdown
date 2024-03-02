@@ -11,13 +11,19 @@ alt: coding-screen
 # client: 
 # category: Credentials
 description: "I am certified in 2016 Microsoft Word, Powerpoint, and Excel. These crendials are for the 2016 versions but for most use cases have applications in the current MS365 versions of Word, Powerpoint, and Excel. Below are some descriptions straight from Microsoft for the certifications.
+
 <br><br>
+
 Word Expert Certification-
 As a recievee of this certification, you demonstrate your ability to proficiently use the advanced features of Word 2016 for Document and content management and Advanced formatting. You can create and manage professional documents of four pages or more for a variety of specialized purposes and situations.You know how to customize Word environments to meet project needs and to enhance productivity. Examples of expert-level documents include Business plans, Research papers, Books
 Specialized brochure and Mass mailings. To read more please visit, https://learn.microsoft.com/en-us/credentials/certifications/mos-word-2016-expert/.
 
+<br><br>
+
 Excel Specialist Certification-
 As a recievee of this certification you have a fundamental understanding of the Excel 2016 environment. You demonstrate your ability to apply the main features of the program, such as, cCreating and editing a workbook with multiple sheets and using a graphic element to represent data visually. Workbook examples include, professional-looking budgets, financial statements, team performance charts, sales invoices and data-entry logs. To read more please visit, https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-2016/.
+
+<br><br>
 
 Powerpoint Specialist Certification-
 As a recievee of this certification, you have a fundamental understanding of the PowerPoint 2016 environment. You demonstrate your ability to apply the main features of the program, such as creating, editing, and enhancing presentations. Presentation examples include professional-grade sales presentations, employee training, instructional materials and kiosk slide shows. To read more please visit, https://learn.microsoft.com/en-us/credentials/certifications/mos-powerpoint-2016/."
