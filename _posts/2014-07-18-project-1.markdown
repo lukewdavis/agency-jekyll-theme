@@ -4,8 +4,8 @@ subtitle: AWS Cloud Practitioner
 layout: default
 modal-id: 1
 date: 2024-03-01
-img: coding-screen.png
-thumbnail: coding-screen-thumbnail.png
+img: aws-badge.png
+thumbnail: aws-badge-thumbnail.png
 alt: coding-screen
 # project-date: 2024
 # client: 

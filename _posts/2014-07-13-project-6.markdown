@@ -12,4 +12,8 @@ alt: coding-screen
 # category: 
 description: I currently have 5 certifications through Webroot. They include DNS Protection Sales, DNS Protection Technical, Endpoint Protection Sales, Endpoint Protection Technical, and Security Awareness Technical Certifications. For more information about their certifications please visit their site, https://www.webroot.com/us/en/business/resources/certifications.
 
+<br><br>
+
+Webroot logo has been used in accordance to their brand guidlines found here, https://www.webroot.com/us/en/about/brand.
+
 ---
