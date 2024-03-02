@@ -8,7 +8,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <form name="sentMessage" id="contactForm" action="https://formspree.io/f/mgegybyd" method="POST">
+                    <!-- <form name="sentMessage" id="contactForm" action="https://formspree.io/f/mgegybyd" method="POST">
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="control-group form-group">
@@ -36,26 +36,16 @@
                                 <button type="submit" class="btn btn-xl">Send Message</button>
                             </div>
                         </div>
-                    </form>
+                    </form> -->
                 </div>
 
-                <div class="col-lg-12">
-                    <!-- modify this form HTML and place wherever you want your form -->
-                    <form action="https://formspree.io/f/mgegybyd" method="POST">
-                    <label>
-                    Your email:
-                    <input type="email" name="email">
-                    </label>
-                    
-                    <label>
-                    Your message:
-                    <textarea name="message"></textarea>
-                    
-                    </label>
-                    <!-- your other form fields go here -->
-                    <button type="submit">Send</button>
-                    </form>
-                </div>
+                <form action="https://formspree.io/f/mgegybyd"
+                    method="POST">
+                <input type="text" name="name">
+                <input type="email" name="_replyto">
+                <input type="text" name="message">
+                <input type="submit" value="Send">
+                </form>
             </div>
         </div>
     </section>
