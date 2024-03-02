@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Amazon Web Services
+subtitle: AWS Cloud Practitioner
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2024-03-01
 img: coding-screen.png
 thumbnail: coding-screen-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+alt: coding-screen
+project-date: 2024
+client: 
+category: Credentials
+description: The AWS Certified Cloud Practitioner validates foundational, high-level understanding of AWS Cloud, services, and terminology. This certification demonstrates my knowledge of AWS and how computing in the cloud works in general. To read more about this certification go to the official AWS Website, https://aws.amazon.com/certification/certified-cloud-practitioner/
 
 ---
