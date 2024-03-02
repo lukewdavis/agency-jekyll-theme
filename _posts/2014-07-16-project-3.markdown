@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Datto
+subtitle: Datto and Kaseya Certificates
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+# date: 2014-07-16
+img: coding-screen.png
+thumbnail: coding-screen-thumbnail.png
+alt: coding-screen
+# project-date: 
+# client: 
+# category: 
+description: I have numerous certifications through Datto and their parent company Kaseya. These include Datto Certified Advanced Technician in Continuity, Datto Cybersecurity Practitioner, Datto Cerftified Deployment Specialist in Continuity, Datto Certified Practitioner in Networking, and Datto Certified Practitioner in SaaS Protection. These credentials demonstrate my knowledge in the workings of Datto as well as general business continuity and disaster recovery.
 
 ---
