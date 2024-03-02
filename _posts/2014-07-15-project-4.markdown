@@ -1,6 +1,6 @@
 ---
 title: Duo Multifactor Authentication
-subtitle: L1 Admin, Dvice Trust, Help Desk
+subtitle: L1 Admin, Device Trust, Help Desk
 layout: default
 modal-id: 4
 # date: 2014-07-15

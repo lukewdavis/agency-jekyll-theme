@@ -1,6 +1,6 @@
 ---
 title: Webroot
-subtitle: Webroot Antivirus
+subtitle: Webroot Antivirus Partner Certifications
 layout: default
 modal-id: 6
 # date: 2014-07-15
@@ -10,10 +10,6 @@ alt: webroot-logo
 # project-date: 
 # client: 
 # category: 
-description: I currently have 5 certifications through Webroot. They include DNS Protection Sales, DNS Protection Technical, Endpoint Protection Sales, Endpoint Protection Technical, and Security Awareness Technical Certifications. For more information about their certifications please visit their site, https://www.webroot.com/us/en/business/resources/certifications.
-
-<br><br>
-
-Webroot logo has been used in accordance to their brand guidlines found here, https://www.webroot.com/us/en/about/brand.
+description: I currently have 5 certifications through Webroot. They include DNS Protection Sales, DNS Protection Technical, Endpoint Protection Sales, Endpoint Protection Technical, and Security Awareness Technical Certifications. For more information about their certifications please visit their site, https://www.webroot.com/us/en/business/resources/certifications. Webroot logo has been used in accordance to their brand guidlines found here, https://www.webroot.com/us/en/about/brand.
 
 ---
