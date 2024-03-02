@@ -4,9 +4,9 @@ subtitle: Datto and Kaseya Certificates
 layout: default
 modal-id: 3
 # date: 2014-07-16
-img: coding-screen.png
-thumbnail: coding-screen-thumbnail.png
-alt: coding-screen
+img: datto-badges.png
+thumbnail: datto-badges-thumbnail.png
+alt: datto-badges
 # project-date: 
 # client: 
 # category: 

@@ -3,10 +3,10 @@ title: Microsoft Office
 subtitle: MS 2016 Office Applications
 layout: default
 modal-id: 2
-date: 2024-03-01
-img: coding-screen.png
-thumbnail: coding-screen-thumbnail.png
-alt: coding-screen
+# date: 2024-03-01
+img: microsoft-badges.png
+thumbnail: microsoft-badges-thumbnail.png
+alt: microsoft-badges
 # project-date: 
 # client: 
 # category: Credentials

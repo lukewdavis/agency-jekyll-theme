@@ -4,9 +4,9 @@ subtitle: L1 Admin, Dvice Trust, Help Desk
 layout: default
 modal-id: 4
 # date: 2014-07-15
-img: coding-screen.png
-thumbnail: coding-screen-thumbnail.png
-alt: coding-screen
+img: duo-badges.png
+thumbnail: duo-badges-thumbnail.png
+alt: duo-badges
 # project-date: 
 # client: 
 # category: 

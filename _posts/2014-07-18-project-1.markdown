@@ -3,10 +3,10 @@ title: Amazon Web Services
 subtitle: AWS Cloud Practitioner
 layout: default
 modal-id: 1
-date: 2024-03-01
+# date: 2024-03-01
 img: aws-badge.png
 thumbnail: aws-badge-thumbnail.png
-alt: coding-screen
+alt: aws-badge
 # project-date: 2024
 # client: 
 # category: Credentials

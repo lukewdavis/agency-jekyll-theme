@@ -4,9 +4,9 @@ subtitle: Intermedia Unite Certifications
 layout: default
 modal-id: 5
 # date: 2014-07-14
-img: coding-screen.png
-thumbnail: coding-screen-thumbnail.png
-alt: coding-screen
+img: intermedia-badge.png
+thumbnail: intermedia-badge-thumbnail.png
+alt: intermedia-badge
 # project-date: April 2014
 # client: Start Bootstrap
 # category: Web Development

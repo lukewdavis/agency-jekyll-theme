@@ -4,9 +4,9 @@ subtitle: Webroot Antivirus
 layout: default
 modal-id: 6
 # date: 2014-07-15
-img: coding-screen.png
-thumbnail: coding-screen-thumbnail.png
-alt: coding-screen
+img: webroot-logo.png
+thumbnail: webroot-logo-thumbnail.png
+alt: webroot-logo
 # project-date: 
 # client: 
 # category: 
