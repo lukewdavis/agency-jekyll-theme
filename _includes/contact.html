@@ -9,18 +9,39 @@
             <div class="row">
                 <div class="col-lg-12">
                     <form id="fs-frm" name="complaint-form" accept-charset="utf-8" action="https://formspree.io/f/mgegybyd" method="post">
-                        <fieldset id="fs-frm-inputs">
-                          <label for="full-name">Full Name</label>
-                          <input type="text" name="name" id="full-name" placeholder="First and Last" required="" data-twofas-input-listener="true" data-twofas-element-number="0">
-                          <label for="email-address">Email Address</label>
-                          <input type="email" name="_replyto" id="email-address" placeholder="email@example.com" required="">
-                          <label for="telephone">Phone Number (Optional)</label>
-                          <input type="telephone" name="phone" id="phone" placeholder="(555) 555-5555">
-                          <label for="message">Message</label>
-                          <textarea rows="6" name="message" id="message" placeholder="Please express your interest or submit any messages here." required="" data-twofas-input-listener="true" data-twofas-element-number="1"></textarea>
-                          <input type="hidden" name="_subject" id="email-subject" value="Website Contact Form Submission">
-                        </fieldset>
-                        <input type="submit" value="Submit" data-twofas-element-number="2">
+                        <div class="row">
+                            <fieldset id="fs-frm-inputs">
+                                <div class="col-md-6">
+                                    <div class="control-group form-group">
+                                        <label for="full-name">Full Name</label>
+                                        <input type="text" name="name" id="full-name" placeholder="First and Last" required="" data-twofas-input-listener="true" data-twofas-element-number="0">
+                                    </div>
+                                    <div class="control-group form-group">
+                                        <label for="email-address">Email Address</label>
+                                        <input type="email" name="_replyto" id="email-address" placeholder="email@example.com" required="">
+                                    </div>
+                                    <div class="control-group form-group">
+                                        <label for="telephone">Phone Number (Optional)</label>
+                                        <input type="telephone" name="phone" id="phone" placeholder="(555) 555-5555">
+                                    </div>
+                                </div>
+                                
+                                <div class="col-md-6">
+                                    <div class="control-group form-group">
+                                        <label for="message">Message</label>
+                                        <textarea rows="6" name="message" id="message" placeholder="Please express your interest or submit any messages here." required="" data-twofas-input-listener="true" data-twofas-element-number="1"></textarea>
+                                    </div>
+                                </div>
+                                
+                                <input type="hidden" name="_subject" id="email-subject" value="Website Contact Form Submission">
+                            </fieldset>
+
+                            <div class="clearfix"></div>
+
+                            <div class="col-lg-12 text-center">
+                                <input type="submit" value="Submit" data-twofas-element-number="2">
+                            </div>
+                        </div>
                       </form>
                     <!-- <form name="sentMessage" id="contactForm" novalidate>
                         <div class="row">
